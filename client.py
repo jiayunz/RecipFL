@@ -8,11 +8,11 @@ from torch.utils.data import DataLoader
 from copy import deepcopy
 from datetime import datetime
 import socket
-from communication_utils import send, recv
+from utils.communication_utils import send, recv
 from utils.general_utils import set_seed
 from tqdm import tqdm
 
-from evaluation import calculate_SLC_metrics, display_results
+from utils.evaluation import calculate_SLC_metrics, display_results
 from utils.general_utils import prepare_client_weights, convert_model_key_to_idx
 from utils.build_model import build_model
 

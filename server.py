@@ -7,7 +7,7 @@ from collections import defaultdict, OrderedDict
 import time
 import socket
 import threading
-from communication_utils import recv, send
+from utils.communication_utils import recv, send
 
 from utils.build_model import build_model
 from utils.general_utils import prepare_client_weights, convert_model_key_to_idx, WeightAveraging
