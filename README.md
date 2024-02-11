@@ -37,3 +37,6 @@ For example, to launch server training on CIFAR-10 using GPU 6, run:
 ```
 python run_server.py -t cifar10 -g 6 --distill --scaling width --client_ip xxx.xxx.xx.xxx --cp 8361 --cp 8362
 ```
+
+### Citation
+Our paper will be published shortly. Please consider citing it if you found our framework useful. Thanks!
