@@ -39,4 +39,13 @@ python run_server.py -t cifar10 -g 6 --distill --scaling width --client_ip xxx.x
 ```
 
 ## Citation
-Our paper will be published shortly. Please consider citing it if you found our framework useful. Thanks!
+Please cite the following paper if you found our framework useful. Thanks!
+```
+@inproceedings{zhang2024few,
+  title={How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments},
+  author={Zhang, Jiayun and Li, Shuheng and Huang, Haiyu and Wang, Zihan and Fu, Xiaohan and Hong, Dezhi and Gupta, Rajesh K and Shang, Jingbo},
+  booktitle={Proceedings of the ACM on Web Conference 2024},
+  pages={2976--2985},
+  year={2024}
+}
+```
