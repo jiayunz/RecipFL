@@ -1,6 +1,6 @@
 # RecipFL
 
-How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments. WWW 2024.
+How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments. WWW 2024. [[paper](https://dl.acm.org/doi/10.1145/3589334.3645544)][[video](https://www.youtube.com/watch?v=nN1UjYw_6uQ)]
 
 ## Run Experiments
 ### Datasets
